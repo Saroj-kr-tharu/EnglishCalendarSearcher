@@ -6,6 +6,25 @@
 ## 🌐 Technologies Used
 -  C++
 
+## 🚀Setup
+
+Follow the steps to set up and run the project on your local machine
+
+
+  ### 1. Clone the Repository
+  ```bash
+ https://github.com/Saroj-kr-tharu/English-Calender-----C-program.git
+ ```
+
+ ### 2. Compile The C++ Code
+  ```bash
+    g++ main.cpp -o main
+ ```
+
+ ### 3. Run the Application
+  ```bash
+   main.exe
+ ```
 ## 📦Features
 
 - Generate English Calender
