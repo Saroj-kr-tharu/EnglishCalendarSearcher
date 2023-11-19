@@ -1,6 +1,6 @@
 
-# 📅 English Calender 
-#### Welcome to English Calender Projects Which Is Console Based Application Based in C++
+# 📅 EnglishCalendarSearcher
+#### Welcome to English Calender Projects Which Is Console Based Application Based in C++.
 
 
 ## 🌐 Technologies Used
@@ -13,7 +13,7 @@ Follow the steps to set up and run the project on your local machine
 
   ### 1. Clone the Repository
   ```bash
- https://github.com/Saroj-kr-tharu/English-Calender-----C-program.git
+ git clone https://github.com/Saroj-kr-tharu/EnglishCalendarSearcher.git
  ```
 
  ### 2. Compile The C++ Code
